@@ -9,7 +9,7 @@ $mensagem .= " \n \n Enviado por: $nome";
 $mensagem .= " \n Email: $email";
 
 
-if(mail("leandro.lvc123@gmail.com", $assunto, $mensagem)){ ?>
+if(mail("gabriel.webdesenvolvimento@gmail.com", $assunto, $mensagem)){ ?>
 	<div class="row">
     <div class="col s12 m5">
       <div class="card-panel teal">
@@ -24,7 +24,7 @@ if(mail("leandro.lvc123@gmail.com", $assunto, $mensagem)){ ?>
     <div class="col s12 m5">
       <div class="card-panel teal">
         <span class="white-text">
-					Erro ao enviar mensagem. Por favor, tente novamente, ou entre contato através do e-mail ou telefone ^^
+					Erro ao enviar mensagem. Por favor, tente novamente, ou entre contato através do e-mail ou telefone (32) 91945-9282
         </span>
       </div>
     </div>
